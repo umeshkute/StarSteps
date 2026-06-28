@@ -1,0 +1,13 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/StarSteps.Application/StarSteps.Application.csproj" />
+    <Project Path="src/StarSteps.Domain/StarSteps.Domain.csproj" />
+    <Project Path="src/StarSteps.Infrastructure/StarSteps.Infrastructure.csproj" />
+    <Project Path="src/StarSteps.Shared/StarSteps.Shared.csproj" />
+    <Project Path="src/StarSteps.Web/StarSteps.Web.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/StarSteps.Application.Tests/StarSteps.Application.Tests.csproj" />
+    <Project Path="tests/StarSteps.Domain.Tests/StarSteps.Domain.Tests.csproj" />
+  </Folder>
+</Solution>
